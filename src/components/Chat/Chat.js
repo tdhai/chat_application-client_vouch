@@ -10,8 +10,6 @@ import "./Chat.css";
 
 const ENDPOINT = "https://vouch-chat-application.herokuapp.com/";
 
-// const ENDPOINT = "localhost:5000";
-
 let socket;
 
 const Chat = ({ location }) => {
