@@ -15,7 +15,7 @@ Vouch test for the client
 # 3./ How to deploy the server
 
     - yarn build (The account please contact me)
-    - netlify deploy
+    - netlify deploy --prod
 
 # 4./ How to verify deploy successfully
 
